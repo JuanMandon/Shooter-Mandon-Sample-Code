@@ -9,15 +9,6 @@ Demonstrates **event-driven weapon logic**, **animation synchronization**, and o
 ## Notice
 
 This repository is provided **for viewing and demonstration purposes only**.  
-All code, assets, and design elements remain the **exclusive intellectual property of Juan Mandon**.
-
-You are **not permitted** to:
-
-- Copy, clone, modify, or redistribute any part of this repository.  
-- Use the code, in whole or in part, in your own projects.  
-- Derive, recreate, or reverse-engineer any systems or designs presented here.  
-- Reference, quote, or reproduce any portion of this repository for commercial or non-commercial purposes.
-
 By accessing this repository, you acknowledge that it is provided **strictly as a portfolio exhibit**, and that **no rights are granted** to use, adapt, or distribute the contents in any form.
 
 
