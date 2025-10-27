@@ -3,7 +3,7 @@
 A **heavily redacted** showcase of select systems from a shooter prototype.  
 Demonstrates **event-driven weapon logic**, **animation synchronization**, and other architectural concepts used in the project.
 
-**Gameplay preview:** *(link here)*
+**Gameplay preview:** *https://youtu.be/GmP44Hk66ME*
 
 
 ## Notice
