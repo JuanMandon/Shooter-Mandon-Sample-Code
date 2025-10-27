@@ -8,12 +8,17 @@ using UnityEngine;
 [RequireComponent(typeof(Animator))]
 public class WeaponAnimator : MonoBehaviour
 {
+    [Header("References")]
     [SerializeField] private Animator animator;
     [SerializeField] private Weapon weapon;
 
     private void Awake()
     {
-        // Ensure references are assigned
+        Initialize();
+    }
+
+    private void Initialize()
+    {
         if (animator == null) animator = GetComponent<Animator>();
         if (weapon == null)
         {
