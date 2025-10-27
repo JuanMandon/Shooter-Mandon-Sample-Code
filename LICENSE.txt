@@ -1,0 +1,9 @@
+This repository is for portfolio display only.
+
+The code and resources presented here have been heavily stripped and do not represent the full project.
+
+They are provided solely for viewing purposes.
+
+No reproduction, modification, redistribution, or derivative use of any kind is permitted.
+
+All rights reserved by the author.
